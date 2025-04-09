@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @OwenNooy
-- 👀 I’m interested in: Discord.py & Python
-- 🌱 I’m currently learning: Discord.py & Python
+- 👋 Hi, I’m @OwenN_026
+- 👀 I’m interested in: Discord.Js & Python
+- 🌱 I’m currently learning: Discord.Js & Python
 - 💞️ I’m looking to collaborate on: 
 - 📫 How to reach me: 
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
