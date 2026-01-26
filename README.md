@@ -3,7 +3,7 @@
 ## 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,npm,php,mongodb,html,js,ts,py,git,github,c,dotnet,expressjs,next,cloudflare,react,mysql,vercel,terminal,powershell,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=nodejs,npm,php,mongodb,html,js,ts,py,git,github,c,dotnet,expressjs,next,cloudflare,react,mysql,vercel,powershell,raspberrypi" />
   </a>
 </p>
 
